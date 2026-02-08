@@ -1,4 +1,6 @@
 # Unix User Utilities
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Funix-user.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Funix-user?ref=badge_shield)
+
 
 ```
 $ npm install unix-user
@@ -30,3 +32,7 @@ user.exists('nick', function(exists) {
 });
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Funix-user.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Funix-user?ref=badge_large)
